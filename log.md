@@ -18,3 +18,9 @@
 
 
 
+### Day 3: October 28, 2021
+
+
+**Today's Progress**: Still on CSS, learnt about the box model, display, position property etc.
+
+**Thoughts:** Learning CSS feels overwhelming, it will not be a one time thing
