@@ -24,3 +24,10 @@
 **Today's Progress**: Still on CSS, learnt about the box model, display, position property etc.
 
 **Thoughts:** Learning CSS feels overwhelming, it will not be a one time thing
+
+### Day 4: October 29, 2021
+
+
+**Today's Progress**: learnt the float and clear property, also learnt to center an element using margin 
+
+**Thoughts:** At this point Google is my friend. 
