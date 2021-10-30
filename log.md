@@ -31,3 +31,10 @@
 **Today's Progress**: learnt the float and clear property, also learnt to center an element using margin 
 
 **Thoughts:** At this point Google is my friend. 
+
+### Day 5: October 30, 2021
+
+
+**Today's Progress**: Learnt about girds and learning about Bootstrap.
+
+**Thoughts:** At this point I feeling designing isn't my thing 
