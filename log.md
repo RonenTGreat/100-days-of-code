@@ -38,3 +38,10 @@
 **Today's Progress**: Learnt about girds and learning about Bootstrap.
 
 **Thoughts:** At this point I feeling designing isn't my thing 
+
+### Day 6: October 31, 2021
+
+
+**Today's Progress**: Practising with boostrap and css
+
+**Thoughts:** Very frustrating 😢😢😢
