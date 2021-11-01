@@ -45,3 +45,10 @@
 **Today's Progress**: Practising with boostrap and css
 
 **Thoughts:** Very frustrating 😢😢😢
+
+### Day 7: November 1, 2021
+
+
+**Today's Progress**: Learn about cards and carousels in bootstrap.
+
+**Thoughts:** Very interesting, learning about it gives me some ideas on implementing it in the personal website, I am thinking of creating.
