@@ -52,3 +52,10 @@
 **Today's Progress**: Learn about cards and carousels in bootstrap.
 
 **Thoughts:** Very interesting, learning about it gives me some ideas on implementing it in the personal website, I am thinking of creating.
+
+### Day 8: November 2, 2021
+
+
+**Today's Progress**: Learnt about z-index, stacking order and media query in CSS.
+
+**Thoughts:** The media query is a little tricky especially when choosing the right screen width.
