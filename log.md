@@ -59,3 +59,10 @@
 **Today's Progress**: Learnt about z-index, stacking order and media query in CSS.
 
 **Thoughts:** The media query is a little tricky especially when choosing the right screen width.
+
+### Day 9: November 3, 2021
+
+
+**Today's Progress**: Engaged in some clean coding by learning how to refactor my code, learnt about using multiple selectors and hierarchy.
+
+**Thoughts:** Today was a slow day, coming up with the common cold so I was a bit slow and very tired. I will hold fast!
