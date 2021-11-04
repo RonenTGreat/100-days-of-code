@@ -66,3 +66,9 @@
 **Today's Progress**: Engaged in some clean coding by learning how to refactor my code, learnt about using multiple selectors and hierarchy.
 
 **Thoughts:** Today was a slow day, coming up with the common cold so I was a bit slow and very tired. I will hold fast!
+
+### Day 10: November 3, 2021
+
+
+**Today's Progress**: I completed all 88 HTML exercises from W3Schools.
+**Thoughts:** Decided to revise what I learnt in these past few days. In doing so I actually learnt about other HTML tags. 
