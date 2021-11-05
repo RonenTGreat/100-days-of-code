@@ -67,8 +67,17 @@
 
 **Thoughts:** Today was a slow day, coming up with the common cold so I was a bit slow and very tired. I will hold fast!
 
-### Day 10: November 3, 2021
+### Day 10: November 4, 2021
 
 
 **Today's Progress**: I completed all 88 HTML exercises from W3Schools.
 **Thoughts:** Decided to revise what I learnt in these past few days. In doing so I actually learnt about other HTML tags. 
+
+### Day 10: November 5, 2021
+
+
+**Today's Progress**: Learnt about variables, data types and outputting using "alert" and "console.log" in JS.
+**Thoughts:** Everything feels familiar until I met var, let and const. Cheers to MDN!
+  - let statement declares a block-scoped local variable, optionally initializing it to a value.
+  - const can not be reassigned, and it can't be redeclared.
+  - var declares a function-scoped or globally-scoped variable.
