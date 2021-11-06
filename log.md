@@ -73,7 +73,7 @@
 **Today's Progress**: I completed all 88 HTML exercises from W3Schools.
 **Thoughts:** Decided to revise what I learnt in these past few days. In doing so I actually learnt about other HTML tags. 
 
-### Day 10: November 5, 2021
+### Day 11: November 5, 2021
 
 
 **Today's Progress**: Learnt about variables, data types and outputting using "alert" and "console.log" in JS.
