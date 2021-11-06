@@ -81,3 +81,9 @@
   - let statement declares a block-scoped local variable, optionally initializing it to a value.
   - const can not be reassigned, and it can't be redeclared.
   - var declares a function-scoped or globally-scoped variable.
+
+### Day 12: November 6, 2021
+
+
+**Today's Progress**: Learnt about the random function and used it to create a love calculator, also learnt about conditonal statement in JS.
+**Thoughts:** Was a good day didn't do much but I like where I am now. Excited for the days ahead. 
