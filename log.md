@@ -87,3 +87,9 @@
 
 **Today's Progress**: Learnt about the random function and used it to create a love calculator, also learnt about conditonal statement in JS.
 **Thoughts:** Was a good day didn't do much but I like where I am now. Excited for the days ahead. 
+
+### Day 13: November 7, 2021
+
+
+**Today's Progress**: Learnt about loops(while and for). Used them(with if and else statements) to program a fibonacci sequence.
+**Thoughts:** A very productive day, up next is DOM!
