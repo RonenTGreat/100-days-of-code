@@ -93,3 +93,9 @@
 
 **Today's Progress**: Learnt about loops(while and for). Used them(with if and else statements) to program a fibonacci sequence.
 **Thoughts:** A very productive day, up next is DOM!
+
+### Day 14: November 8, 2021
+
+
+**Today's Progress**: Learnt how to change the style of an element using javascript also learnt about the DOM structure.
+**Thoughts:** Need to practise more with the DOM for it to really sink in.
