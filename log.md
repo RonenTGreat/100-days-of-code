@@ -99,3 +99,9 @@
 
 **Today's Progress**: Learnt how to change the style of an element using javascript also learnt about the DOM structure.
 **Thoughts:** Need to practise more with the DOM for it to really sink in.
+
+### Day 15: November 9, 2021
+
+
+**Today's Progress**: Used what I learnt in the past days to create The Dicee Games, also learnt I could use textContent instead of innerHTML.
+**Thoughts:** I am making progress little by little, really excited!
