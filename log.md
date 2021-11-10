@@ -105,3 +105,9 @@
 
 **Today's Progress**: Used what I learnt in the past days to create The Dicee Games, also learnt I could use textContent instead of innerHTML.
 **Thoughts:** I am making progress little by little, really excited!
+
+### Day 16: November 10, 2021
+
+
+**Today's Progress**: Learnt about event listeners and higher order function and callbacks.
+**Thoughts:** Documentation really helps.
