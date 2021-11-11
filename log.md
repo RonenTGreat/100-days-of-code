@@ -111,3 +111,11 @@
 
 **Today's Progress**: Learnt about event listeners and higher order function and callbacks.
 **Thoughts:** Documentation really helps.
+
+
+### Day 17: November 11, 2021
+
+
+**Today's Progress**: Learnt about manipulating content on a webpage with jQuery.
+**Thoughts:** It's simple andb has potential but still wondering about using it. 
+I guess I will have to practice more with it.
