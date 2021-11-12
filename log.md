@@ -117,5 +117,11 @@
 
 
 **Today's Progress**: Learnt about manipulating content on a webpage with jQuery.
-**Thoughts:** It's simple andb has potential but still wondering about using it. 
+**Thoughts:** It's simple and has potential but still wondering about using it. 
 I guess I will have to practice more with it.
+
+### Day 18: November 12, 2021
+
+
+**Today's Progress**: Still practising with CSS and Javascript;
+**Thoughts:** Will continue tomorrow.
