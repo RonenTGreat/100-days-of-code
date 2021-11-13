@@ -125,3 +125,11 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Still practising with CSS and Javascript;
 **Thoughts:** Will continue tomorrow.
+
+
+### Day 19: November 13, 2021
+
+
+**Today's Progress**: Using what I learnt in jQuery to program the sequence of the Simon game.
+**Thoughts:** Got a little confused so decided to take it a little at a time.
+
