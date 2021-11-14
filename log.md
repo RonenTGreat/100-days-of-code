@@ -133,3 +133,9 @@ I guess I will have to practice more with it.
 **Today's Progress**: Using what I learnt in jQuery to program the sequence of the Simon game.
 **Thoughts:** Got a little confused so decided to take it a little at a time.
 
+
+### Day 19: November 13, 2021
+
+
+**Today's Progress**: Wondered if I could create a rock, paper, scissors games using HTML, CSS and JavaScript so I decided to try.
+**Thoughts:** Unfortunately it a little challenging for me when it comes to the behavior section using JavaScript
