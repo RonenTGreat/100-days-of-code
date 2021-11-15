@@ -134,8 +134,15 @@ I guess I will have to practice more with it.
 **Thoughts:** Got a little confused so decided to take it a little at a time.
 
 
-### Day 19: November 13, 2021
+### Day 20: November 14, 2021
 
 
 **Today's Progress**: Wondered if I could create a rock, paper, scissors games using HTML, CSS and JavaScript so I decided to try.
 **Thoughts:** Unfortunately it a little challenging for me when it comes to the behavior section using JavaScript
+
+
+### Day 21: November 15, 2021
+
+
+**Today's Progress**: Continued with the Simon Game today.
+**Thoughts:** Had a problem with addEventListener making sure that if a button is click the button should flash, unfortunately I want able to accomplish it.
