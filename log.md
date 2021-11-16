@@ -145,4 +145,10 @@ I guess I will have to practice more with it.
 
 
 **Today's Progress**: Continued with the Simon Game today.
-**Thoughts:** Had a problem with addEventListener making sure that if a button is click the button should flash, unfortunately I want able to accomplish it.
+**Thoughts:** Had a problem with addEventListener making sure that if a button is click the button should flash, fortunately I was able to accomplish it.
+
+### Day 22: November 16, 2021
+
+
+**Today's Progress**: Worked on a portfolio project today.
+**Thoughts:** The plan was to just fix one thing, ended creating more issues and having to fix them too.
