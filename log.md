@@ -153,8 +153,14 @@ I guess I will have to practice more with it.
 **Today's Progress**: Worked on a portfolio project today.
 **Thoughts:** The plan was to just fix one thing, ended creating more issues and having to fix them too.
 
-### Day 23: November 16, 2021
+### Day 23: November 17, 2021
 
 
 **Today's Progress**: Did a little practice on media queries, tried to fit a website on the Galaxy fold. Also conintued with the simon game, used keypress to detect when the user presses a key to start the game.
 **Thoughts:** Feels like I am slow.
+
+Day 24: November 18, 2021
+
+
+**Today's Progress**: Still on the Simon game a day or two and I will be done with the challenage, did a little coding on my portofolio website also. 
+**Thoughts:** I am kind of procratinating.
