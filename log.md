@@ -159,8 +159,15 @@ I guess I will have to practice more with it.
 **Today's Progress**: Did a little practice on media queries, tried to fit a website on the Galaxy fold. Also conintued with the simon game, used keypress to detect when the user presses a key to start the game.
 **Thoughts:** Feels like I am slow.
 
-Day 24: November 18, 2021
+### Day 24: November 18, 2021
 
 
 **Today's Progress**: Still on the Simon game a day or two and I will be done with the challenage, did a little coding on my portofolio website also. 
 **Thoughts:** I am kind of procratinating.
+
+
+### Day 25: November 19, 2021
+
+
+**Today's Progress**: Finally I am done with the Simon Game and I am also done with my portfolio website.
+**Thoughts:** Check for some finishing touches if everything looks good, I will host it!
