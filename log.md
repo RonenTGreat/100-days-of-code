@@ -171,3 +171,11 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Finally I am done with the Simon Game and I am also done with my portfolio website.
 **Thoughts:** Check for some finishing touches if everything looks good, I will host it!
+
+
+### Day 26: November 20, 2021
+
+
+**Today's Progress**: Completed the rock, paper, scissors games and also hosted it on Netlify, tried using media query to make it a little representable on mobiles.
+**Thoughts:** It's been a great day, this is my first time of hosting a website. It was more or less an expirement for upcoming projects.
+
