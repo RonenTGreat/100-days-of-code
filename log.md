@@ -179,3 +179,8 @@ I guess I will have to practice more with it.
 **Today's Progress**: Completed the rock, paper, scissors games and also hosted it on Netlify, tried using media query to make it a little representable on mobiles.
 **Thoughts:** It's been a great day, this is my first time of hosting a website. It was more or less an expirement for upcoming projects.
 
+### Day 27: November 21, 2021
+
+
+**Today's Progress**: Started with a countdown timer tutorial using Javascript, I figure it will help me improve on it more.
+**Thoughts:** A slow day, didn't do much
