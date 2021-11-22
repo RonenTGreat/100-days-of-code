@@ -184,3 +184,9 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Started with a countdown timer tutorial using Javascript, I figure it will help me improve on it more.
 **Thoughts:** A slow day, didn't do much
+
+### Day 28: November 22, 2021
+
+
+**Today's Progress**: Completed the countdown timer today using the tutorial from Florin Pop, learnt a new method setInterval().
+**Thoughts:** It was really awesome, got to see the thought processes an experienced developer goes throught to solve problems even if it was just a countdown timer.
