@@ -190,3 +190,10 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Completed the countdown timer today using the tutorial from Florin Pop, learnt a new method setInterval().
 **Thoughts:** It was really awesome, got to see the thought processes an experienced developer goes throught to solve problems even if it was just a countdown timer.
+
+### Day 29: November 23, 2021
+
+
+**Today's Progress**: Started with Node.js, but I feel like I am rushing things so I decided to practice more with HTML and CSS. 
+**Thoughts:** I feel like I know nothing, need to put myself at ease.
+
