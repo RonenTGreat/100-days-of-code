@@ -197,3 +197,9 @@ I guess I will have to practice more with it.
 **Today's Progress**: Started with Node.js, but I feel like I am rushing things so I decided to practice more with HTML and CSS. 
 **Thoughts:** I feel like I know nothing, need to put myself at ease.
 
+### Day 30: November 24, 2021
+
+
+**Today's Progress**:  Practised with CSS flexbox today, Traversy Media explaination on it really gave me more understanding on it.
+**Thoughts:** I will mark today as successful 
+
