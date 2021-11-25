@@ -200,6 +200,11 @@ I guess I will have to practice more with it.
 ### Day 30: November 24, 2021
 
 
-**Today's Progress**:  Practised with CSS flexbox today, Traversy Media explaination on it really gave me more understanding on it.
+**Today's Progress**:  Practised with CSS flexbox today, Traversy Media explanation on it really gave me more understanding on it.
 **Thoughts:** I will mark today as successful 
 
+### Day 31: November 25, 2021
+
+
+**Today's Progress**: Completed a simple landing page of one of my favorite fiction books, I used what I practise with flexbox. 
+**Thoughts:** Really glad a thought came to my mind and I was able to create what I saw in my mind. It's the whole reason I love programmming.
