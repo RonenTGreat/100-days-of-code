@@ -213,5 +213,5 @@ I guess I will have to practice more with it.
 ### Day 32: November 26, 2021
 
 
-**Today's Progress**: Learnt about customizing Bootstrap using Sass.
-**Thoughts:** Sass is really cool feels like I am programming, a missing semi-colon and I receive an error. But setting it up is a little complicated for me. Maybe it's because it's my first.
+**Today's Progress**: Still learning Botstrap with Sass
+**Thoughts:** 
