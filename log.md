@@ -210,8 +210,16 @@ I guess I will have to practice more with it.
 **Today's Progress**: Completed a simple landing page of one of my favorite fiction books, I used what I practise with flexbox. 
 **Thoughts:** Really glad a thought came to my mind and I was able to create what I saw in my mind. It's the whole reason I love programmming.
 
+
+
 ### Day 32: November 26, 2021
 
 
-**Today's Progress**: Still learning Botstrap with Sass
+**Today's Progress**: Learnt about customizing Bootstrap using Sass.
+**Thoughts:** Sass is really cool feels like I am programming, a missing semi-colon and I receive an error. But setting it up is a little complicated for me. Maybe it's because it's my first.
+
+### Day 33: November 27, 2021
+
+
+**Today's Progress**: Still learning Bootstrap with Sass
 **Thoughts:** 
