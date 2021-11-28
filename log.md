@@ -223,3 +223,9 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Still learning Bootstrap with Sass
 **Thoughts:** 
+
+### Day 34: November 28, 2021
+
+
+**Today's Progress**:Did a little practice with carousel in Bootstrap
+**Thoughts:** 
