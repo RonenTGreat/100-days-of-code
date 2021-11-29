@@ -229,3 +229,9 @@ I guess I will have to practice more with it.
 
 **Today's Progress**:Did a little practice with carousel in Bootstrap
 **Thoughts:** 
+
+### Day 35: November 29, 2021
+
+
+**Today's Progress**: Practised with using Accordions.
+**Thoughts:** 
