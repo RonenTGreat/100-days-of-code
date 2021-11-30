@@ -237,7 +237,7 @@ I guess I will have to practice more with it.
 **Thoughts:** 
 
 
-### Day 35: November 29, 2021
+### Day 36: November 30, 2021
 
 
 **Today's Progress**: Finished with my practise of Bootstrap and Sass. Of course I will going back to it sometime but now continuing from where I left off.
