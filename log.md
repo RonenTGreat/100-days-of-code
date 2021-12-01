@@ -243,3 +243,8 @@ I guess I will have to practice more with it.
 **Today's Progress**: Finished with my practise of Bootstrap and Sass. Of course I will going back to it sometime but now continuing from where I left off.
 **Thoughts:** 
 
+### Day 37: December 1, 2021
+
+
+**Today's Progress**: Started with Node.js again frankly I am still confused about the whole application of backend. Thought it interesting how javascript can directly interact with my OS using Node.js
+**Thoughts:** 
