@@ -248,3 +248,9 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Started with Node.js again frankly I am still confused about the whole application of backend. Thought it interesting how javascript can directly interact with my OS using Node.js
 **Thoughts:** 
+
+### Day 38: December 2, 2021
+
+
+**Today's Progress**: I was able to finish on my portfolio website today. Thank God for NameCheap and Netlify.
+**Thoughts:** 
