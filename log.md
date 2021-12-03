@@ -254,3 +254,10 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: I was able to finish on my portfolio website today. Thank God for NameCheap and Netlify.
 **Thoughts:** 
+
+
+### Day 39: December 3, 2021
+
+
+**Today's Progress**: Learnt about the fs and path module in Node.js
+**Thoughts:** 
