@@ -261,3 +261,9 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Learnt about the fs and path module in Node.js
 **Thoughts:** 
+
+### Day 40: December 4, 2021
+
+
+**Today's Progress**: Learnt about the os and http module in Node.js.
+**Thoughts:** Created a web server but did not host it.
