@@ -272,5 +272,11 @@ I guess I will have to practice more with it.
 ### Day 41: December 5, 2021
 
 
-**Today's Progress**: Started with Expressm, way simpler to create a simple web server. Or maybe it because I got exposed to web server with Node.js
+**Today's Progress**: Started with Expresss, way simpler to create a simple web server. Or maybe it because I got exposed to web server with Node.js
 **Thoughts:** Excited to see what's next. 
+
+### Day 42: December 6 2021
+
+
+**Today's Progress**: Signed up for Frontend Mentor today, started with one of challenges (NFT Card Component).
+**Thoughts:** The starting and the ending was a little difficult, had a lot of trouble with the active state for the image. Forgot to nest the icon view in a div container.
