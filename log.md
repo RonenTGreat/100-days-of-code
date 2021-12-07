@@ -280,3 +280,10 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Signed up for Frontend Mentor today, started with one of challenges (NFT Card Component).
 **Thoughts:** The starting and the ending was a little difficult, had a lot of trouble with the active state for the image. Forgot to nest the icon view in a div container.
+
+
+### Day 43: December 7 2021
+
+
+**Today's Progress**: Made some improvement to the NFT Card Component, tried to make it more accessible  
+**Thoughts:** 
