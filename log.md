@@ -285,5 +285,17 @@ I guess I will have to practice more with it.
 ### Day 43: December 7 2021
 
 
-**Today's Progress**: Made some improvement to the NFT Card Component, tried to make it more accessible  
+**Today's Progress**: Made some improvement to the NFT Card Component, tried to make it more accessible  https://www.frontendmentor.io/solutions/flexbox-sass-c3zGTOr7j
+**Thoughts:** 
+
+### Day 44: December 8 2021
+
+
+**Today's Progress**: Created an order summary card using html and Sass.
+**Thoughts:** 
+
+### Day 45: December 9 2021
+
+
+**Today's Progress**: Continued with learning Express, used body-parser to get access to form data from the html file. Used the technique to create an add calculator.
 **Thoughts:** 
