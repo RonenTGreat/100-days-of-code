@@ -299,3 +299,9 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Continued with learning Express, used body-parser to get access to form data from the html file. Used the technique to create an add calculator.
 **Thoughts:** 
+
+### Day 46: December 10 2021
+
+
+**Today's Progress**: Modified the add calculator I did yesterday into a BMI calculator using Express. Also started with a quiz app.
+**Thoughts:** 
