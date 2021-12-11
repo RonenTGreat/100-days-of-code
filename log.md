@@ -305,3 +305,10 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Modified the add calculator I did yesterday into a BMI calculator using Express. Also started with a quiz app.
 **Thoughts:** 
+
+
+### Day 47: December 11 2021
+
+
+**Today's Progress**: Started with a quiz app, still using project based tutorials to make me understand JavaScript. But I am very happy with the UI
+**Thoughts:** 
