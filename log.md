@@ -312,3 +312,10 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Started with a quiz app, still using project based tutorials to make me understand JavaScript. But I am very happy with the UI
 **Thoughts:** 
+
+### Day 48: December 12 2021
+
+
+**Today's Progress**: Completed with the quiz app today, thinking of adding some funny question just for laughs.
+**Thoughts:** 
+
