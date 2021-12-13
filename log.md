@@ -319,3 +319,8 @@ I guess I will have to practice more with it.
 **Today's Progress**: Completed with the quiz app today, thinking of adding some funny question just for laughs.
 **Thoughts:** 
 
+### Day 49: December 13 2021
+
+
+**Today's Progress**: Started with a new project from @frontendMentor, using a mobile first principle. Also trying to use this project to learn more about grids.
+**Thoughts:** .
