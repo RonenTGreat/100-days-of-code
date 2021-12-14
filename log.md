@@ -324,3 +324,9 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Started with a new project from @frontendMentor, using a mobile first principle. Also trying to use this project to learn more about grids.
 **Thoughts:** .
+
+
+### Day 50: December 14 2021
+
+
+**Today's Progress**: Completed the layout for larger screens, It was a little difficult then the mobile first. I am so close 50/100, I am half way there. Big Time Rush is playing in my head
