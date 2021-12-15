@@ -330,3 +330,10 @@ I guess I will have to practice more with it.
 
 
 **Today's Progress**: Completed the layout for larger screens, It was a little difficult then the mobile first. I am so close 50/100, I am half way there. Big Time Rush is playing in my head
+
+
+
+### Day 51: December 15 2021
+
+
+**Today's Progress**: Finally completed my 3rd project from Frontend Mentor
