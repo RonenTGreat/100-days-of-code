@@ -339,6 +339,11 @@ I guess I will have to practice more with it.
 **Today's Progress**: Finally completed my 3rd project from Frontend Mentor
 
 
-### Day 51: December 15 2021
+### Day 52: December 16 2021
 
 **Today's Progress**: Started with APIs, OpenWeather API. Also used Postman to experiment. Can't wait to starting build something interesting with it!
+
+
+### Day 53: December 17 2021
+
+**Today's Progress**: Completed the quiz app, added some funny questions and hosted it.
