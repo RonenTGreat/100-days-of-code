@@ -347,3 +347,9 @@ I guess I will have to practice more with it.
 ### Day 53: December 17 2021
 
 **Today's Progress**: Completed the quiz app, added some funny questions and hosted it.
+
+
+### Day 54: December 18 2021
+
+**Today's Progress**: 1. Started with a new challenge(Huddle landing page) from @frontedMentor.
+                      2. Revised some concepts in Sass such as partials and mixins, 
