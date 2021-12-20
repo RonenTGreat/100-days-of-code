@@ -352,4 +352,8 @@ I guess I will have to practice more with it.
 ### Day 54: December 18 2021
 
 **Today's Progress**: 1. Started with a new challenge(Huddle landing page) from @frontedMentor.
-                      2. Revised some concepts in Sass such as partials and mixins, 
+                      2. Revised some concepts in Sass such as partials and mixins.
+                      
+### Day 55: December 19 2021 & Day 56: December 20 2021
+
+**Today's Progress**: Continuing with my challenge from frontmentor, spent a number of hours on the mobile design but I was able to get in to look the same as the mockup design. The desktop shoulb be easy(hopefully)
