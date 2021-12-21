@@ -357,3 +357,9 @@ I guess I will have to practice more with it.
 ### Day 55: December 19 2021 & Day 56: December 20 2021
 
 **Today's Progress**: Continuing with my challenge from frontmentor, spent a number of hours on the mobile design but I was able to get in to look the same as the mockup design. The desktop shoulb be easy(hopefully)
+
+
+### Day 57: December 21 2021
+
+
+**Today's Progress**: Completed my 4th project from Frontend Mentor. 
