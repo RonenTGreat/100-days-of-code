@@ -363,3 +363,9 @@ I guess I will have to practice more with it.
 
 
 **Today's Progress**: Completed my 4th project from Frontend Mentor. 
+
+### Day 58: December 22 2021
+
+
+**Today's Progress**: Continued with learning about APIs, used the open weather api to create a simple weather app. 
+
