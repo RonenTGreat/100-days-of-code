@@ -369,3 +369,8 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Continued with learning about APIs, used the open weather api to create a simple weather app. 
 
+
+### Day 59: December 23 2021
+
+
+**Today's Progress**: Using mailchimp api to learn how to create a newsletter site.
