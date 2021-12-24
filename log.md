@@ -374,3 +374,9 @@ I guess I will have to practice more with it.
 
 
 **Today's Progress**: Using mailchimp api to learn how to create a newsletter site.
+
+
+### Day 60: December 24 2021
+
+
+**Today's Progress**: Created a success page and a failure page for the Newsletter site. 
