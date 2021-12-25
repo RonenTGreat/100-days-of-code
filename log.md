@@ -380,3 +380,8 @@ I guess I will have to practice more with it.
 
 
 **Today's Progress**: Created a success page and a failure page for the Newsletter site. 
+
+
+### Day 61: December 25 2021
+
+**Today's Progress**: Started with creating a recipe app, haven't done much. Lucky I have able to do anything today 
