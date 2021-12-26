@@ -385,3 +385,9 @@ I guess I will have to practice more with it.
 ### Day 61: December 25 2021
 
 **Today's Progress**: Started with creating a recipe app, haven't done much. Lucky I have able to do anything today 
+
+
+
+### Day 62: December 26 2021
+
+**Today's Progress**: Continuing with the recipe app, mainly focused on making the layout of the app. I really like border-radius!
