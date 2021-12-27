@@ -391,3 +391,7 @@ I guess I will have to practice more with it.
 ### Day 62: December 26 2021
 
 **Today's Progress**: Continuing with the recipe app, mainly focused on making the layout of the app. I really like border-radius!
+
+### Day 63: December 27 2021
+
+**Today's Progress**: Focused on JavaScript today, adding functionality to the interface. Using TheMealBD api to fetch random meals and adding it into a favorite section.  
