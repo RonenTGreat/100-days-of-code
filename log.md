@@ -394,4 +394,9 @@ I guess I will have to practice more with it.
 
 ### Day 63: December 27 2021
 
-**Today's Progress**: Focused on JavaScript today, adding functionality to the interface. Using TheMealBD api to fetch random meals and adding it into a favorite section.  
+**Today's Progress**: Focused on JavaScript today, adding functionality to the interface. Using TheMealBD api to fetch random meals and adding it into a favorite section.
+
+
+### Day 64: December 28 2021
+
+**Today's Progress**: Focused on adding and removing meals from the favourtie section. Also added a colour gradient to improve the layout.
