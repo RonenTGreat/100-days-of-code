@@ -400,3 +400,8 @@ I guess I will have to practice more with it.
 ### Day 64: December 28 2021
 
 **Today's Progress**: Focused on adding and removing meals from the favourtie section. Also added a colour gradient to improve the layout.
+
+
+### Day 65: December 29 2021
+
+**Today's Progress**: Worked on creating the section where the information about the food will be displayed, the section isn't displaying so I will try again tomorrow.
