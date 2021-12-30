@@ -405,3 +405,8 @@ I guess I will have to practice more with it.
 ### Day 65: December 29 2021
 
 **Today's Progress**: Worked on creating the section where the information about the food will be displayed, the section isn't displaying so I will try again tomorrow.
+
+
+### Day 66: December 30 2021
+
+**Today's Progress**: Done with the recipe app! There is still some improvement to make and bugs(features) to fix.
