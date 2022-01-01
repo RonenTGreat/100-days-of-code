@@ -410,3 +410,15 @@ I guess I will have to practice more with it.
 ### Day 66: December 30 2021
 
 **Today's Progress**: Done with the recipe app! There is still some improvement to make and bugs(features) to fix.
+
+
+### Day 67: December 31 2021
+
+**Today's Progress**: Didn't do much just updated my portfolio website.
+
+
+### Day 68: January 1 2021
+
+**Today's Progress**: Added the recipe app and  quiz app I created to my portfolio and removed the not so "nice" ones. Also started with a new challenge from @frontendmentor following @kevin on Scimba. Currently on the design system section 
+
+
