@@ -422,3 +422,7 @@ I guess I will have to practice more with it.
 **Today's Progress**: Added the recipe app and  quiz app I created to my portfolio and removed the not so "nice" ones. Also started with a new challenge from @frontendmentor following @kevin on Scimba. Currently on the design system section 
 
 
+### Day 69: January 2 2021
+
+**Today's Progress**: After seeing this design I was curious about how it could be done, I was even thinking about it in church. It's not perfect, it's not responsive on smaller screens. I am just glad my brain is not itching again.
+
