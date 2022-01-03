@@ -426,3 +426,8 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: After seeing this design I was curious about how it could be done, I was even thinking about it in church. It's not perfect, it's not responsive on smaller screens. I am just glad my brain is not itching again.
 
+
+
+### Day 70: January 3 2021
+
+**Today's Progress**: Finished with the design system for the space tourism challenge onto coding the home page. Using utility classes are really is really fun. I see why most love Tailwind(I am not using Tailwind though)
