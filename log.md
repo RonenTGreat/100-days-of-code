@@ -431,3 +431,8 @@ I guess I will have to practice more with it.
 ### Day 70: January 3 2021
 
 **Today's Progress**: Finished with the design system for the space tourism challenge onto coding the home page. Using utility classes are really is really fun. I see why most love Tailwind(I am not using Tailwind though)
+
+
+### Day 71: January 4 2021
+
+**Today's Progress**: Finished with the home page of the space tourism!
