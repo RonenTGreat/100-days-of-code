@@ -436,3 +436,9 @@ I guess I will have to practice more with it.
 ### Day 71: January 4 2021
 
 **Today's Progress**: Finished with the home page of the space tourism!
+
+
+### Day 72: January 5 2021
+
+**Today's Progress**: Currently working on the navigation, used glassmorphism for styling the background.
+Also learnt about using supports to apply a feature if it is supported by the browser.
