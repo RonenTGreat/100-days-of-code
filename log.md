@@ -442,3 +442,8 @@ I guess I will have to practice more with it.
 
 **Today's Progress**: Currently working on the navigation, used glassmorphism for styling the background.
 Also learnt about using supports to apply a feature if it is supported by the browser.
+
+
+### Day 73: January 6 2021
+
+**Today's Progress**: Finished with the navigation today, I also learnt about a feature called "skip-to-content" that skip to the content having the main tag.
