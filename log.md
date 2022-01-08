@@ -447,3 +447,8 @@ Also learnt about using supports to apply a feature if it is supported by the br
 ### Day 73: January 6 2021
 
 **Today's Progress**: Finished with the navigation today, I also learnt about a feature called "skip-to-content" that skip to the content having the main tag.
+
+
+### Day 74 and 75: January 7 & 8 2021
+
+**Today's Progress**: Finished with the distination page and the crew page also with the behaviour of the page.
