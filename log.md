@@ -452,3 +452,9 @@ Also learnt about using supports to apply a feature if it is supported by the br
 ### Day 74 and 75: January 7 & 8 2021
 
 **Today's Progress**: Finished with the distination page and the crew page also with the behaviour of the page.
+
+
+### Day 76: January 9 2021
+
+**Today's Progress**: In the spirit of open source I joined EddieHub created by @eddie, hoping to learn a lot about open sourece and contribute to it. 
+I am on my last page(techonlogy) for the space tourism. Lucky I was able to do anything today, my nap nearly turned into a full blown sleep.   
