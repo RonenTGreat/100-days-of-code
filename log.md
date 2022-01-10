@@ -458,3 +458,8 @@ Also learnt about using supports to apply a feature if it is supported by the br
 
 **Today's Progress**: In the spirit of open source I joined EddieHub created by @eddie, hoping to learn a lot about open sourece and contribute to it. 
 I am on my last page(techonlogy) for the space tourism. Lucky I was able to do anything today, my nap nearly turned into a full blown sleep.   
+
+
+### Day 77: January 10 2021
+
+**Today's Progress**: I think I am done with the mobile part of the technology page, the scary thing is when I view it on a large screen then disasters strikes. Will be working on that tomorrow, really need to get very good at responsive web design(with just CSS).
