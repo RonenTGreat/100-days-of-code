@@ -463,3 +463,18 @@ I am on my last page(techonlogy) for the space tourism. Lucky I was able to do a
 ### Day 77: January 10 2021
 
 **Today's Progress**: I think I am done with the mobile part of the technology page, the scary thing is when I view it on a large screen then disasters strikes. Will be working on that tomorrow, really need to get very good at responsive web design(with just CSS).
+
+
+Day 78: January 11 2021
+
+**Today's Progress**: Moved to the desktop part of the website, it's really challenging using Grid. For some reason Flex just flows. But I think I will step back a little with this project. I should continue with my course on web development 
+
+
+Day 79: January 12 2021
+
+**Today's Progress**: Reviewed some concept in Git. 
+
+
+Day 80: January 13 2021
+
+**Today's Progress**: Learning about to using EJS to create template html pages, after that will use the knowledge to create a todo list app. 
