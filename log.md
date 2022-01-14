@@ -478,3 +478,8 @@ Day 79: January 12 2021
 Day 80: January 13 2021
 
 **Today's Progress**: Learning about to using EJS to create template html pages, after that will use the knowledge to create a todo list app. 
+
+
+Day 81: January 14 2021
+
+**Today's Progress**: Completed the todo list app, used body parser to get the input from the user and passes it to the backend running on express.js
