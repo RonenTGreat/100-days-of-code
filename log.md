@@ -483,3 +483,8 @@ Day 80: January 13 2021
 Day 81: January 14 2021
 
 **Today's Progress**: Completed the todo list app, used body parser to get the input from the user and passes it to the backend running on express.js
+
+
+Day 82: January 15 2021
+
+**Today's Progress**: Done with the module on EJS, also learnt how to export files and using those files in other files.
