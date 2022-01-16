@@ -488,3 +488,9 @@ Day 81: January 14 2021
 Day 82: January 15 2021
 
 **Today's Progress**: Done with the module on EJS, also learnt how to export files and using those files in other files.
+
+
+Day 83: January 16 2021
+
+**Today's Progress**: Started with a challenge today, using EJS is create a blogging site.
+
