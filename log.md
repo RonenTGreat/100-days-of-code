@@ -494,3 +494,6 @@ Day 83: January 16 2021
 
 **Today's Progress**: Started with a challenge today, using EJS is create a blogging site.
 
+Day 84: January 17 2021
+
+**Today's Progress**: Still on my challenge of creating a blog site, used  Bootstrap to give the site a basic looking style and used used to body parser to get the inputs the user entered in the textarea. Hopefully by tomorrow the functionality will be done...
