@@ -497,3 +497,8 @@ Day 83: January 16 2021
 Day 84: January 17 2021
 
 **Today's Progress**: Still on my challenge of creating a blog site, used  Bootstrap to give the site a basic looking style and used used to body parser to get the inputs the user entered in the textarea. Hopefully by tomorrow the functionality will be done...
+
+
+Day 85: January 18 2021
+
+**Today's Progress**: Done with the EJS challenge, thinking of hosting it using Heroku.
