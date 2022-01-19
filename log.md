@@ -502,3 +502,8 @@ Day 84: January 17 2021
 Day 85: January 18 2021
 
 **Today's Progress**: Done with the EJS challenge, thinking of hosting it using Heroku.
+
+
+Day 86: January 19 2021
+
+**Today's Progress**: Added a compose button to the page and made come improvements 
