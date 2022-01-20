@@ -507,3 +507,8 @@ Day 85: January 18 2021
 Day 86: January 19 2021
 
 **Today's Progress**: Added a compose button to the page and made come improvements 
+
+
+Day 87: January 20 2021
+
+**Today's Progress**: Watched an introductory video on databases and also started with creating a note taking app.
