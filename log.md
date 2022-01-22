@@ -514,8 +514,14 @@ Day 87: January 20 2021
 **Today's Progress**: Watched an introductory video on databases and also started with creating a note taking app.
 
 
-Day 87: January 20 2021
+Day 88: January 21 2021
 
 **Today's Progress**: Learnt about SQL commands, used a CREATE, INSERT INTO, WHERE, DELETE, UPDATE to create a simple database table. 
                       
                       With the note taking app, implemented marked down CDN.  I am seriously tired...
+
+
+Day 89: January 21 2021
+
+**Today's Progress**: Done with the basics of the note app, can added note and delete them. Up next is trying to add them to local storage.
+
