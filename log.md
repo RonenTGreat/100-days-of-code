@@ -521,7 +521,15 @@ Day 88: January 21 2021
                       With the note taking app, implemented marked down CDN.  I am seriously tired...
 
 
-Day 89: January 21 2021
+Day 89: January 22 2021
 
 **Today's Progress**: Done with the basics of the note app, can added note and delete them. Up next is trying to add them to local storage.
 
+
+Day 90: January 23 2021
+
+**Today's Progress**: Done with the note app, the final part was making sure the notes don't disappear after the page was refreshed. Added the notes to the local storage.
+
+Day 91: January 24 2021
+
+**Today's Progress**: Focused a little on database with MongoDB, weird but after seeing SQL. I kinds like SQL more, though MongoDB is indeed flexible. 
