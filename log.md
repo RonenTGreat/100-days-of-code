@@ -533,3 +533,12 @@ Day 90: January 23 2021
 Day 91: January 24 2021
 
 **Today's Progress**: Focused a little on database with MongoDB, weird but after seeing SQL. I kinds like SQL more, though MongoDB is indeed flexible. 
+
+
+Day 92: January 25 2021
+
+**Today's Progress**: Downloaded MySQL, learnt to create a database. The setup really too a lot of time.
+
+Day 93: January 26 2021
+
+**Today's Progress**: Learnt by ORDER and joining multiple tables and joining different databases. 
