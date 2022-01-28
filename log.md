@@ -542,3 +542,11 @@ Day 92: January 25 2021
 Day 93: January 26 2021
 
 **Today's Progress**: Learnt by ORDER and joining multiple tables and joining different databases. 
+
+Day 94: January 27 2021
+
+**Today's Progress**: Learnt how to use express and nodemailer to send data from a contact form to the owner of a website.
+
+Day 95: January 28 2021
+
+**Today's Progress**: Added some features to my website. 
