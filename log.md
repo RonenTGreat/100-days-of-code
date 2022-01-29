@@ -537,7 +537,7 @@ Day 91: January 24 2021
 
 Day 92: January 25 2021
 
-**Today's Progress**: Downloaded MySQL, learnt to create a database. The setup really too a lot of time.
+**Today's Progress**: Downloaded MySQL, learnt to create a database. The setup really took a lot of time.
 
 Day 93: January 26 2021
 
@@ -549,4 +549,8 @@ Day 94: January 27 2021
 
 Day 95: January 28 2021
 
-**Today's Progress**: Added some features to my website. 
+**Today's Progress**: Added some features to my website.
+
+Day 96: January 29 2021
+
+**Today's Progress**: Creating a v2 of my todo list app, adding a database to it.
