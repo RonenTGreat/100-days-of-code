@@ -554,3 +554,10 @@ Day 95: January 28 2021
 Day 96: January 29 2021
 
 **Today's Progress**: Creating a v2 of my todo list app, adding a database to it.
+
+
+
+Day 97: January 30 2021
+
+**Today's Progress**: An exhausting day, my code for some reason is not working. I am just tired and want to give up!
+
