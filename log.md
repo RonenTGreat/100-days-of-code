@@ -565,3 +565,8 @@ Day 97: January 30 2021
 Day 98: January 31 2021
 
 **Today's Progress**: I was able to fixed the bug that was annoying yesterday, It seems I had added an extra space in one of the values in my EJS file so Mongo couldn't read the value. Finished with the todolist, I was able to host the mongo code on Mongo Atlas and the backend on Heroku.
+
+
+Day 99: February 1 2021
+
+**Today's Progress**: Still practising with database and creating persitent data, currently implementing it in a simple blog site. 
