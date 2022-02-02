@@ -570,3 +570,8 @@ Day 98: January 31 2021
 Day 99: February 1 2021
 
 **Today's Progress**: Still practising with database and creating persitent data, currently implementing it in a simple blog site. 
+
+
+Day 100: February 2 2021
+
+**Today's Progress**: And I am done with with #100dayofcodechallenge! For today I completed the implementation of the database to the blog site. Also updated the readme on my todolist app(https://protected-everglades-62065.herokuapp.com/) and the blog site
