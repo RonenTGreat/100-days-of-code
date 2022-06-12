@@ -17,3 +17,15 @@
 **Today's Progress:** Learnt about the if, elif and else statement then the logical operators "or" also "and". Then I used the concept to create a short adventure game. 
 
 **Thoughts:** The exercises today were a little challenging, took a while to solve some of them but I did it! 
+
+### Day 4: 11th June 2022
+
+**Today's Progress:** Studied on randomisation using https://askpython.com and also studied about Lists. Used those concepts to program a simple rock, paper, scissors. Also solved some exercises on 2d list.  
+
+**Thoughts:** 
+
+### Day 5: 12th June 2022
+
+**Today's Progress:** Learnt about Loops and Range, then I used the concept to create a simple password generator that asks the user for the number of letters, symbols and digits the user wants in the password. 
+
+**Thoughts:** It so funny I had to apply try and error for this project but later found out there was a simpler way around it.
