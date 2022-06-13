@@ -29,3 +29,11 @@
 **Today's Progress:** Learnt about Loops and Range, then I used the concept to create a simple password generator that asks the user for the number of letters, symbols and digits the user wants in the password. 
 
 **Thoughts:** It so funny I had to apply try and error for this project but later found out there was a simpler way around it.
+
+
+### Day 6: 13th June 2022
+
+**Today's Progress:**  Studied on while loops and functions today, though I didn't create any project today I did solve some problems from https://reeborg.ca/reeborg.html using the concepts. It was very challenging ,especiallyHurdle 3 and 4. 
+
+**Thoughts:** I was able to finish early today so I decide to get an introduction to tailwindcss
+
