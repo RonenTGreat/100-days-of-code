@@ -37,3 +37,9 @@
 
 **Thoughts:** I was able to finish early today so I decide to get an introduction to tailwindcss
 
+
+### Day 7: 14th June 2022
+
+**Today's Progress:** Didn't learn any new concepts today, used today to create a hangman game using Python. 
+
+**Thoughts:** The beginning of any adventure may seem overwhelming but breaking it down really does the trick. Programming is a great big adventure. 
