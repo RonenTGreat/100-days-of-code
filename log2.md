@@ -47,6 +47,6 @@
 
 ### Day 8: 15th June 2022
 
-**Today's Progress:** Still on functions, learn about parameters and arguements(positional arguements and keyword arguements). For today's project I created a Caesar Cipher. 
+**Today's Progress:** Still on functions, learn about parameters and arguments(positional arguments and keyword arguments). For today's project I created a Caesar Cipher. 
 
 **Thoughts:** 
