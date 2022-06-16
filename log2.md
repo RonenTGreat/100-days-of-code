@@ -50,3 +50,11 @@
 **Today's Progress:** Still on functions, learn about parameters and arguments(positional arguments and keyword arguments). For today's project I created a Caesar Cipher. 
 
 **Thoughts:** 
+
+
+
+### Day 9: 16th June 2022
+
+**Today's Progress:** Learnt about dictionary and nesting dictionary into list and vice versa, then I created a blind bid auction that stores the name and bidding price into a dictionary and there prints out the winner of the auction. 
+
+**Thoughts:** Today lesson was quick but I procrastinated a litte 
