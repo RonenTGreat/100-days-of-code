@@ -58,3 +58,12 @@
 **Today's Progress:** Learnt about dictionary and nesting dictionary into list and vice versa, then I created a blind bid auction that stores the name and bidding price into a dictionary and there prints out the winner of the auction. 
 
 **Thoughts:** Today lesson was quick but I procrastinated a litte 
+
+
+
+### Day 10: 17th June 2022
+
+**Today's Progress:** Learnt about the return keyword and why it is important plus the difference between the "print" and "return" in functions. Also learnt about recursive functions. I created a simple calculator with the concepts I have learned so far. 
+
+**Thoughts:** 
+
