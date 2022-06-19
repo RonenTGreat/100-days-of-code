@@ -70,3 +70,7 @@
 ### Day 11: 18th June 2022
 
 **Today's Progress:** Today I started with my capstone project, I am supposed to create a simple blackjack game. Unfortunately, I wasn't able to finish today and I will hopefully finish tomorrow.
+
+### Day 12: 19th June 2022
+
+**Today's Progress:** Completed my capstone project https://bit.ly/3N9JIjE. 
