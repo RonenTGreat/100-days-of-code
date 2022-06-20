@@ -74,3 +74,7 @@
 ### Day 12: 19th June 2022
 
 **Today's Progress:** Completed my capstone project https://bit.ly/3N9JIjE. 
+
+### Day 13: 20th June 2022
+
+**Today's Progress:** Didn't do much today, just create a simple guessing game. Really excited about the coming days. 
