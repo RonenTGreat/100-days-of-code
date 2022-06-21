@@ -78,3 +78,8 @@
 ### Day 13: 20th June 2022
 
 **Today's Progress:** Didn't do much today, just create a simple guessing game. Really excited about the coming days. 
+
+
+### Day 14: 21st June 2022
+
+**Today's Progress:** Today I just focused on debugging, I mostly just use my eyes as a debugger but I'm starting to learn how to use a debugger. 
