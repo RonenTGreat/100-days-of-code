@@ -83,3 +83,7 @@
 ### Day 14: 21st June 2022
 
 **Today's Progress:** Today I just focused on debugging, I mostly just use my eyes as a debugger but I'm starting to learn how to use a debugger. 
+
+### Day 15 & 16: 2nd and 3rd June
+
+**Today's Progress:** I kinda of decided to refresh my mind a little on frontend web development focusing a Tailwind css. 
