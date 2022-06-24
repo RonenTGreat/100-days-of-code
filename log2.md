@@ -84,6 +84,10 @@
 
 **Today's Progress:** Today I just focused on debugging, I mostly just use my eyes as a debugger but I'm starting to learn how to use a debugger. 
 
-### Day 15 & 16: 2nd and 3rd June
+### Day 15 & 16: 22nd and2 3rd June
 
 **Today's Progress:** I kinda of decided to refresh my mind a little on frontend web development focusing a Tailwind css. 
+
+### Day 17: 24th June
+
+**Today's Progress:** Worked on my final project as a beginner, I created a higher lower game. It gets a user to guess which person has the highest or lowest followers.
