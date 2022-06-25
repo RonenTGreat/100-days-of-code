@@ -91,3 +91,7 @@
 ### Day 17: 24th June
 
 **Today's Progress:** Worked on my final project as a beginner, I created a higher lower game. It gets a user to guess which person has the highest or lowest followers.
+
+### Day 18: 25th June
+
+**Today's Progress:** Today I created a program that simulates the behaviour of a coffee machine that takes in coins and then with the available resources (water, milk, coffee) creates a coffee for the user. 
