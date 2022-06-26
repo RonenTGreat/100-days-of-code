@@ -95,3 +95,8 @@
 ### Day 18: 25th June
 
 **Today's Progress:** Today I created a program that simulates the behaviour of a coffee machine that takes in coins and then with the available resources (water, milk, coffee) creates a coffee for the user. 
+
+
+### Day 19: 26th June
+
+**Today's Progress:** I started with Object Oriented Programming today, I also used some packages such as turtle and pretty table. 
