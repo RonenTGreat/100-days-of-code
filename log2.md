@@ -100,3 +100,8 @@
 ### Day 19: 26th June
 
 **Today's Progress:** I started with Object Oriented Programming today, I also used some packages such as turtle and pretty table. 
+
+
+### Day 20 and 21: 27th and 28th June
+
+**Today's Progress:**  Day 20 and 21 #100DaysOfCode: I'm still on object-oriented programming, I used the concept to create a simple quiz game. Continued using the Turtle package and I solved some challenges with it, mostly creating repeating and random shapes using loops and the random module. 
