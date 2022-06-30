@@ -105,3 +105,9 @@
 ### Day 20 and 21: 27th and 28th June
 
 **Today's Progress:**  Day 20 and 21 #100DaysOfCode: I'm still on object-oriented programming, I used the concept to create a simple quiz game. Continued using the Turtle package and I solved some challenges with it, mostly creating repeating and random shapes using loops and the random module. 
+
+
+
+### Day 22 and 23: 29th and 30th June
+
+**Today's Progress:** I have resumed schooling so unfortunately I don't really have the time to post my progress but I'm doing my best. Today I created a Hirst painting using the turtle package.
